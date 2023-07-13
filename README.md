@@ -1,4 +1,4 @@
-# Depth Prediction Transformers (DPT) - README
+# Image Depth Estimation using Depth Prediction Transformers (DPTs)
 
 ## Overview
 This repository contains the implementation of Depth Prediction Transformers (DPT), a deep learning model for accurate depth estimation in computer vision tasks. DPT leverages the transformer architecture and an encoder-decoder framework to capture fine-grained details, model long-range dependencies, and generate precise depth predictions.

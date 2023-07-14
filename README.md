@@ -9,6 +9,8 @@ This repository contains the implementation of Depth Prediction Transformers (DP
 - Implementation of techniques such as self-attention mechanisms, upsampling, and convolutional layers.
 - Support for various computer vision tasks, including autonomous navigation, augmented reality, 3D reconstruction, and robotics.
 
+![BeFunky-collage (1)](https://github.com/inuwamobarak/depth-estimation-DPT/assets/65142149/655f18e1-6f41-42ec-afc8-a79ac0e9f4a1)
+
 ## Usage
 1. Import the necessary modules: `import dpt`
 2. Load the pre-trained model: `model = dpt.load_model('path/to/model.weights')`

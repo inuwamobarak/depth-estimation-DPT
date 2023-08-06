@@ -1,3 +1,5 @@
+[Article link:]([url](https://www.analyticsvidhya.com/blog/2023/07/depth-prediction-transformers/))
+
 # Image Depth Estimation using Depth Prediction Transformers (DPTs)
 
 ## Overview
@@ -6,7 +8,7 @@ This repository contains the implementation of Depth Prediction Transformers (DP
 ## Features
 - Depth estimation from 2D images using Depth Prediction Transformers.
 - Integration of transformer-based encoder and decoder components for accurate depth prediction.
-- Implementation of techniques such as self-attention mechanisms, upsampling, and convolutional layers.
+- Implementation of self-attention mechanisms, upsampling, and convolutional layers.
 - Support for various computer vision tasks, including autonomous navigation, augmented reality, 3D reconstruction, and robotics.
 
 ![BeFunky-collage (1)](https://github.com/inuwamobarak/depth-estimation-DPT/assets/65142149/655f18e1-6f41-42ec-afc8-a79ac0e9f4a1)

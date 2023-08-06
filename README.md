@@ -1,5 +1,4 @@
-[Article link:]([url](https://www.analyticsvidhya.com/blog/2023/07/depth-prediction-transformers/))
-
+[Article Link]([url](https://www.analyticsvidhya.com/blog/2023/07/depth-prediction-transformers/))
 # Image Depth Estimation using Depth Prediction Transformers (DPTs)
 
 ## Overview
